@@ -81,11 +81,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-        "av": {
-      "api": "https://api.souavzy.vip/api.php/provide/vod",
-      "name": "av"
-    },
-    "xiaomaomi": {
+      "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
